@@ -13,7 +13,8 @@ To capture live network traffic using Wireshark, apply filters, identify at leas
 
 ## 📝 Steps Performed
 
-### **Step 1 – Install/Launch Wireshark**
+### **Step  – Install/Launch Wireshark**
 ```bash
 sudo apt install wireshark -y
 wireshark
+ 
